@@ -1,5 +1,7 @@
 # Value-Investor-Tool
 
+*This program is a work in progress*
+
 This tool is meant to aid a value investor in assessing a stock. 
 
 **This tool is not to be used to pick stocks for you. You are responsible for your own research on a particular stock. This tool simply aids your research, rather than
