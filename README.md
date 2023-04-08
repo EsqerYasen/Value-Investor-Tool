@@ -1,6 +1,6 @@
 # Value-Investor-Tool
 
-*This program is a work in progress. It is built in Python and uses Selenium to scrape data from NASDAQ. The web scraping will be done with responsbility in mind to avoid sending too many requests at once to the NASDAQ website. I will likely implement a sleep timer to do steps incrementally rather than all at once.*
+*This program is a work in progress. It is built in Python and uses Selenium to scrape data from NASDAQ. The web scraping will be done with responsibility in mind to avoid sending too many requests at once to the NASDAQ website. I will likely implement a sleep timer to do steps incrementally rather than all at once.*
 
 This tool is meant to aid a value investor in assessing a stock. 
 
